@@ -1,0 +1,8 @@
+name: /Users/yisongqin/llama/envs
+channels:
+  - conda-forge
+dependencies:
+  - torchvision
+  - pytorch
+  - wget
+prefix: /Users/yisongqin/llama/envs
